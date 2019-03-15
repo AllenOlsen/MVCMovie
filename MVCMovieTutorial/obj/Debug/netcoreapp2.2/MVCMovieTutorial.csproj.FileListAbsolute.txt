@@ -28,3 +28,5 @@ C:\GitRepos\MVCMovie\MVCMovieTutorial\obj\Debug\netcoreapp2.2\MVCMovieTutorial.V
 C:\GitRepos\MVCMovie\MVCMovieTutorial\obj\Debug\netcoreapp2.2\MVCMovieTutorial.dll
 C:\GitRepos\MVCMovie\MVCMovieTutorial\obj\Debug\netcoreapp2.2\MVCMovieTutorial.pdb
 C:\GitRepos\MVCMovie\MVCMovieTutorial\obj\Debug\netcoreapp2.2\MVCMovieTutorial.csproj.CopyComplete
+C:\GitRepos\MVCMovie\MVCMovieTutorial\obj\Debug\netcoreapp2.2\Razor\Views\HelloWorld\Index.g.cshtml.cs
+C:\GitRepos\MVCMovie\MVCMovieTutorial\obj\Debug\netcoreapp2.2\Razor\Views\HelloWorld\Welcome.g.cshtml.cs
