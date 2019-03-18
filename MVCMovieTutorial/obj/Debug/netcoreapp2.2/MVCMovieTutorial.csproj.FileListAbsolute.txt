@@ -30,3 +30,8 @@ C:\GitRepos\MVCMovie\MVCMovieTutorial\obj\Debug\netcoreapp2.2\MVCMovieTutorial.p
 C:\GitRepos\MVCMovie\MVCMovieTutorial\obj\Debug\netcoreapp2.2\MVCMovieTutorial.csproj.CopyComplete
 C:\GitRepos\MVCMovie\MVCMovieTutorial\obj\Debug\netcoreapp2.2\Razor\Views\HelloWorld\Index.g.cshtml.cs
 C:\GitRepos\MVCMovie\MVCMovieTutorial\obj\Debug\netcoreapp2.2\Razor\Views\HelloWorld\Welcome.g.cshtml.cs
+C:\GitRepos\MVCMovie\MVCMovieTutorial\obj\Debug\netcoreapp2.2\Razor\Views\Movies\Create.g.cshtml.cs
+C:\GitRepos\MVCMovie\MVCMovieTutorial\obj\Debug\netcoreapp2.2\Razor\Views\Movies\Delete.g.cshtml.cs
+C:\GitRepos\MVCMovie\MVCMovieTutorial\obj\Debug\netcoreapp2.2\Razor\Views\Movies\Details.g.cshtml.cs
+C:\GitRepos\MVCMovie\MVCMovieTutorial\obj\Debug\netcoreapp2.2\Razor\Views\Movies\Edit.g.cshtml.cs
+C:\GitRepos\MVCMovie\MVCMovieTutorial\obj\Debug\netcoreapp2.2\Razor\Views\Movies\Index.g.cshtml.cs
