@@ -14,8 +14,15 @@ C:\GitRepos\MVCMovie\MVCMovieTutorial\obj\Debug\netcoreapp2.2\MVCMovieTutorial.A
 C:\GitRepos\MVCMovie\MVCMovieTutorial\obj\Debug\netcoreapp2.2\MVCMovieTutorial.TagHelpers.input.cache
 C:\GitRepos\MVCMovie\MVCMovieTutorial\obj\Debug\netcoreapp2.2\MVCMovieTutorial.TagHelpers.output.cache
 C:\GitRepos\MVCMovie\MVCMovieTutorial\obj\Debug\netcoreapp2.2\MVCMovieTutorial.RazorCoreGenerate.cache
+C:\GitRepos\MVCMovie\MVCMovieTutorial\obj\Debug\netcoreapp2.2\Razor\Views\HelloWorld\Index.g.cshtml.cs
+C:\GitRepos\MVCMovie\MVCMovieTutorial\obj\Debug\netcoreapp2.2\Razor\Views\HelloWorld\Welcome.g.cshtml.cs
 C:\GitRepos\MVCMovie\MVCMovieTutorial\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
 C:\GitRepos\MVCMovie\MVCMovieTutorial\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\GitRepos\MVCMovie\MVCMovieTutorial\obj\Debug\netcoreapp2.2\Razor\Views\Movies\Create.g.cshtml.cs
+C:\GitRepos\MVCMovie\MVCMovieTutorial\obj\Debug\netcoreapp2.2\Razor\Views\Movies\Delete.g.cshtml.cs
+C:\GitRepos\MVCMovie\MVCMovieTutorial\obj\Debug\netcoreapp2.2\Razor\Views\Movies\Details.g.cshtml.cs
+C:\GitRepos\MVCMovie\MVCMovieTutorial\obj\Debug\netcoreapp2.2\Razor\Views\Movies\Edit.g.cshtml.cs
+C:\GitRepos\MVCMovie\MVCMovieTutorial\obj\Debug\netcoreapp2.2\Razor\Views\Movies\Index.g.cshtml.cs
 C:\GitRepos\MVCMovie\MVCMovieTutorial\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
 C:\GitRepos\MVCMovie\MVCMovieTutorial\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
 C:\GitRepos\MVCMovie\MVCMovieTutorial\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
@@ -28,10 +35,3 @@ C:\GitRepos\MVCMovie\MVCMovieTutorial\obj\Debug\netcoreapp2.2\MVCMovieTutorial.V
 C:\GitRepos\MVCMovie\MVCMovieTutorial\obj\Debug\netcoreapp2.2\MVCMovieTutorial.dll
 C:\GitRepos\MVCMovie\MVCMovieTutorial\obj\Debug\netcoreapp2.2\MVCMovieTutorial.pdb
 C:\GitRepos\MVCMovie\MVCMovieTutorial\obj\Debug\netcoreapp2.2\MVCMovieTutorial.csproj.CopyComplete
-C:\GitRepos\MVCMovie\MVCMovieTutorial\obj\Debug\netcoreapp2.2\Razor\Views\HelloWorld\Index.g.cshtml.cs
-C:\GitRepos\MVCMovie\MVCMovieTutorial\obj\Debug\netcoreapp2.2\Razor\Views\HelloWorld\Welcome.g.cshtml.cs
-C:\GitRepos\MVCMovie\MVCMovieTutorial\obj\Debug\netcoreapp2.2\Razor\Views\Movies\Create.g.cshtml.cs
-C:\GitRepos\MVCMovie\MVCMovieTutorial\obj\Debug\netcoreapp2.2\Razor\Views\Movies\Delete.g.cshtml.cs
-C:\GitRepos\MVCMovie\MVCMovieTutorial\obj\Debug\netcoreapp2.2\Razor\Views\Movies\Details.g.cshtml.cs
-C:\GitRepos\MVCMovie\MVCMovieTutorial\obj\Debug\netcoreapp2.2\Razor\Views\Movies\Edit.g.cshtml.cs
-C:\GitRepos\MVCMovie\MVCMovieTutorial\obj\Debug\netcoreapp2.2\Razor\Views\Movies\Index.g.cshtml.cs
