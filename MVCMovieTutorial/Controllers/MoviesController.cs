@@ -1,11 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using MVCMovieTutorial.Models;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text.Encodings.Web;
+using System.Threading.Tasks;
 
 namespace MVCMovieTutorial.Controllers
 {
@@ -19,9 +19,33 @@ namespace MVCMovieTutorial.Controllers
         }
 
         // GET: Movies
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(string movieGenre, string searchString)
         {
-            return View(await _context.Movie.ToListAsync());
+            IQueryable<string> genreQuery = from m in _context.Movie
+                                            orderby m.Genre
+                                            select m.Genre;
+
+            var movies = from m in _context.Movie select m;
+
+            if (!string.IsNullOrWhiteSpace(searchString))
+                movies = movies.Where(movie => movie.Title.Contains(searchString));
+
+            if (!string.IsNullOrWhiteSpace(movieGenre))
+                movies = movies.Where(movie => movie.Genre.Contains(movieGenre));
+
+            var movieGenreVM = new MovieGenreViewModel()
+            {
+                Genres = new SelectList(await genreQuery.Distinct().ToListAsync()),
+                Movies = await movies.ToListAsync()
+            };
+
+            return View(movieGenreVM);
+        }
+
+        [HttpPost]
+        public string Index(string searchString, bool notUsed)
+        {
+            return HtmlEncoder.Default.Encode($"From [HttpPost]Index: filter on: {searchString}");
         }
 
         // GET: Movies/Details/5
